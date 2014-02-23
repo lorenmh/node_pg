@@ -1,0 +1,14 @@
+{
+  "name": "node_canvas",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Loren Howard",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "pg": "2.11.1",
+    "express": "3.4.8"
+  }
+}
